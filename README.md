@@ -32,7 +32,7 @@
 ### :dart: Entregas
 
 <details>
-   <summary>Demonstrativos das funcionalidades aplicadas na Sprint</summary>
+   <summary><b>Demonstrativos das funcionalidades aplicadas na Sprint<b></summary>
 <h4>Cadastro de Promoções</h4>
    <img src="./gifs/promoção.gif">
 
