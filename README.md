@@ -79,11 +79,15 @@
 <img src="https://i.imgur.com/v7JN92o.png"/> 
 </p>
 
+> 🔗 Links gerais
+>
+> Wireframe: <a href="https://github.com/TheAchieversDSM/API-2022.2/blob/main/wireframe.pdf">acesse aqui!</a>
+
 <span id="equipe">
 
 ### :busts_in_silhouette: Equipe:
 
-| Função        | Nome                             | GitHub & LinkedIn                                                                                                                                                                                                                                                                                                                                                           |
+| Função        | Nome                             | GitHub & LinkedIn       |
 | ------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Scrum Master  | Tais Salomão                     | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/taissalomao) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/tais-salomao/)                          |
 | Product Owner | Matheus Henrique Lemes Sakuragui | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/MatheusSakuragui) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/matheus-henrique-lemes-sakuragui/) |
