@@ -66,7 +66,7 @@
 <img src="https://i.imgur.com/uJsTP8Z.png"/>  
 </p>
 
-<p align="center"> Backlog Sprint 1
+<p align="center"> <h3 align="center">Backlog Sprint 1</h3>
 <img src="https://i.imgur.com/jL2CUAk.png"/></p>
 
 <a href="#inicio">[Voltar ao início]</a>
