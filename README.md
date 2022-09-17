@@ -12,13 +12,6 @@
 ### :bookmark_tabs: Sobre o projeto:
 <p>O projeto consiste em uma aplicação web que viabilize o cross-selling (venda cruzada) dos produtos e/ou serviços da UOL. Para isso, nesta primeira sprint,  adicionamos à aplicação a criação de: Promoções, pacotes, serviços /produtos e como MVP, as primeiras sugestões de produtos/serviços baseada no produto que está sendo visualizado pelo usuário.
 </p>
-
-<details>
-   <summary>MVC do projeto</summary>
-   
-   <h4></h4>
-   <img src="">
-</details>	
   
   
  <span id="objetivo">
