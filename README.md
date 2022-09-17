@@ -16,8 +16,8 @@
 <details>
    <summary>MVC do projeto</summary>
    
-   <h4>Diagrama de classes mapeado do frontend</h4>
-   <img src="https://user-images.githubusercontent.com/69374340/163506461-be837b99-d7ce-4c3c-86ff-c1d276fec529.png">
+   <h4></h4>
+   <img src="">
 </details>	
   
   
