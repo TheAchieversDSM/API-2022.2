@@ -26,6 +26,7 @@
  ### :dart: Objetivos da Sprint
 
  Os requisitos abrangidos por essa sprint são: 
+   <br></br>
    <img src="https://i.imgur.com/qNOspM8.png"> 
 
  <p align="center">
@@ -44,7 +45,7 @@
 
 <h4>Cadastro de Pacotes</h4>
 
-   <img src="./gifs/pacotes.gif">
+   <img src="./gifs/pacote.gif">
 
 <h4>Cadastro de Serviços</h4>
    <img src="./gifs/serviço.gif">
