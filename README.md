@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Spring-CED4DA?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+<img src="https://img.shields.io/badge/Swagger-CED4DA?style=for-the-badge&logo=Swagger&logoColor=4EA94B" />
 </p>
   
 <a href="#inicio">[Voltar ao início]</a>
@@ -48,12 +49,12 @@
 
 ### :dart: Entregas
 
-| Sprint ID | Data                | Tag            | Vídeo          | Status                |
-| --------- | ------------------- | -------------- | -------------- | --------------------- |
-| #1        | 29.08.22 - 18.09.22 | :construction: | :construction: | :black_square_button: |
-| #2        | 19.09.22 - 09.10.22 | :construction: | :construction: | :black_square_button: |
-| #3        | 17.10.22 - 06.11.22 | :construction: | :construction: | :black_square_button: |
-| #4        | 07.11.22 - 27.11.22 | :construction: | :construction: | :black_square_button: |
+| Sprint ID | Data                | Histórico      | Status                |
+| --------- | ------------------- | ---------------|---------------------- | 
+| 01        | 29.08.22 - 18.09.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-01">Relatório</a> | :black_square_button: |
+| 02        | 19.09.22 - 09.10.22 | :construction: | :black_square_button: |
+| 03        | 17.10.22 - 06.11.22 | :construction: | :black_square_button: |
+| 04        | 07.11.22 - 27.11.22 | :construction: | :black_square_button: |
 
 <a href="#inicio">[Voltar ao início]</a>
 
