@@ -43,7 +43,8 @@
    <img src="./gifs/promoção.gif">
 
 <h4>Cadastro de Pacotes</h4>
-[Imgur](https://i.imgur.com/ScwePik)
+
+   <img src="./gifs/pacotes.gif">
 
 <h4>Cadastro de Serviços</h4>
    <img src="./gifs/serviço.gif">
