@@ -82,8 +82,8 @@
 > 🔗 Links gerais
 > <ul>
 > <li>Wireframe: <a href="https://github.com/TheAchieversDSM/API-2022.2/blob/main/wireframe.pdf">acesse aqui!</a></li>
-> <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2022.2/blob/main/wireframe.pdf">acesse aqui!</a></li>
-> <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2022.2/blob/main/wireframe.pdf">acesse aqui!</a></li>
+> <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2022.2-BackEnd">acesse aqui!</a></li>
+> <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2022.2-FrontEnd">acesse aqui!</a></li>
 > </ul>
 
 <span id="equipe">
