@@ -5,6 +5,7 @@
      <a href="#sobre">Sobre</a> • 
      <a href="#techtools">Ferramentas e Tecnologias</a> •
      <a href="#entregas">Entregas</a> • 
+     <a href="#metodologia">Metodologia</a> •
      <a href="#backlog">Backlogs e User Stories</a> •
      <a href="#documentacao">Documentação</a> •
      <a href="#equipe">Equipe</a> 
@@ -13,15 +14,12 @@
 <span id="sobre">
 
 ### :bookmark_tabs: Sobre o projeto:
-
 <p>A Uol, mesmo há tanto tempo no mercado, continua com alta relevância entre a população brasileira e um desses motivos é a constante adaptação de sua plataforma de modo a melhorar a experiência do usuário.</p>
 <p>O mais novo recurso utilizado pelo site é o Cross-Selling, também conhecido como Venda-Cruzada, que envolve a venda de um produto ou serviço adicional a um cliente existente, dependendo de suas necessidades.</p>
 <p>Vários fatores podem influenciar a sugestão de novos produtos, portanto, nosso projeto visa garantir que o cliente, com base nos produtos sugeridos a ele de acordo com seu perfil, contrate o que precisa em uma única compra, refletindo, assim, no aumento de receita do negócio.</p>
 
-#### 📌 Status do projeto: Em andamento. :construction:
-
-<a href="#inicio">[Voltar ao início]</a>
-
+ #### 📌 Status do projeto: Em andamento.
+  
  <span id="techtools">
  
  ### :hammer_and_wrench: Ferramentas e Tecnologias
@@ -39,67 +37,74 @@
 <img src="https://img.shields.io/badge/Spring-CED4DA?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
-<img src="https://img.shields.io/badge/Swagger-CED4DA?style=for-the-badge&logo=Swagger&logoColor=4EA94B" />
-</p>
-  
-<a href="#inicio">[Voltar ao início]</a>
- 
+</p> 
   
 <span id="entregas">
 
 ### :dart: Entregas
 
-| Sprint ID | Data                | Histórico      | Status                |
-| --------- | ------------------- | ---------------|---------------------- | 
-| 01        | 29.08.22 - 18.09.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-01">Relatório</a> | :heavy_check_mark: |
-| 02        | 19.09.22 - 09.10.22 | :construction: | :black_square_button: |
-| 03        | 17.10.22 - 06.11.22 | :construction: | :black_square_button: |
-| 04        | 07.11.22 - 27.11.22 | :construction: | :black_square_button: |
+Sprint ID | Data | Histórico | Status |
+----------|------|-----------|--------|
+#1 | 29.08.22 - 18.09.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-01">Relatório</a>  | :heavy_check_mark:
+#2 | 19.09.22 - 09.10.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-02">Relatório</a>  | :heavy_check_mark:
+#3 | 17.10.22 - 06.11.22 | :construction:  | :construction:
+#4 | 07.11.22 - 27.11.22 | 🛑  | 🛑
 
+<span id="metodologia">
+
+### :hammer_and_wrench: Metodologia: SCRUM
+ <p>Scrum é um framework com o qual as pessoas podem resolver problemas complexos e adaptáveis, enquanto entregam produtos de forma produtiva, criativa e com o maior valor possível.
+
+Scrum consiste do Time Scrum e seus papéis, eventos e artefatos que coordenam o relacionamento e interação entre os membros.
+Apesar de ter sido criado originalmente para desenvolvimento de software, Scrum pode ser usado em qualquer tipo de projeto, contanto que haja um certo grau de complexidade, já que ele se baseia na teoria de controle empírico de processos, ou empirismo.
+Um processo empírico é aquele onde diversos imprevistos ocorrem – diferente de um processo definido – e tomamos alguma atitude para resolve-los. Desta forma, você melhora o processo à medida que trabalha com ele, já que as coisas não ocorrem sempre da mesma forma.
+Diferente de uma linha de montagem, onde cada passo pode ser previsto e monitorado, em projetos de desenvolvimento complexo de softwares isso se torna impossível, e daí a razão de se utilizar um processo empírico.</p>
+<img src="https://i.imgur.com/pgCeOCz.png"/>  
+</p>
+  
 <a href="#inicio">[Voltar ao início]</a>
 
- <span id="backlog">
+<span id="backlog">
  
  ### :hammer_and_wrench: Backlogs e User Stories
- 
- <p align="center">
-<img src="https://i.imgur.com/uJsTP8Z.png"/>  
-</p>
 
-<p align="center"> <h3 align="center">Backlog Sprint 1</h3>
-<img src="https://i.imgur.com/jL2CUAk.png"/></p>
+<h4> Backlog do produto
+<br></br>
+<img src="https://i.imgur.com/xH57Lbn.png"/></h4>
+
+<h4> User Stories
+<br></br>
+<img src="https://i.imgur.com/7QwUxSF.png"/></h4>
 
 <a href="#inicio">[Voltar ao início]</a>
 
- <span id="documentacao">
+<span id="documentacao">
  
  ### :hammer_and_wrench: Documentação
  
- <p align="center">
-<img src="https://i.imgur.com/v7JN92o.png"/> 
-</p>
+<h4>Modelo de dados
+<br></br>
+<img src="https://i.imgur.com/5Glci1Y.png"/>  
+</h4>
 
-> 🔗 Links gerais
-> <ul>
-> <li>Wireframe: <a href="https://github.com/TheAchieversDSM/API-2022.2/blob/main/wireframe.pdf">acesse aqui!</a></li>
-> <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2022.2-BackEnd">acesse aqui!</a></li>
-> <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2022.2-FrontEnd">acesse aqui!</a></li>
-> </ul>
+<h4>Diagrama de classes
+<br></br>
+<img src="https://i.imgur.com/gHXL6QV.png">  
+</h4>
 
 <span id="equipe">
 
 ### :busts_in_silhouette: Equipe:
-
-| Função        | Nome                             | GitHub & LinkedIn       |
-| ------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Scrum Master  | Tais Salomão                     | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/taissalomao) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/tais-salomao/)                          |
-| Product Owner | Matheus Henrique Lemes Sakuragui | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/MatheusSakuragui) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/matheus-henrique-lemes-sakuragui/) |
-| Dev Team      | Maria Clara Alves de Faria       | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/mclaralvs) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/mclaralvs/)                               |
-| Dev Team      | Mariana Ayumi Tamay              | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/Mariayumi) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/mariana-tamay-159582222/)                 |
-| Dev Team      | Priscila Silva                   | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/prsilva) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/priscilasilva1801/)                         |
+Função | Nome | GitHub & LinkedIn
+-------|------|-------------------
+Scrum Master | Tais Salomão | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/taissalomao) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/tais-salomao/) 
+Product Owner | Matheus Henrique Lemes Sakuragui | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/MatheusSakuragui) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/matheus-henrique-lemes-sakuragui/)
+Dev Team | Maria Clara Alves de Faria | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/mclaralvs) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/mclaralvs/)
+Dev Team | Mariana Ayumi Tamay | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/Mariayumi) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/mariana-ayumi-159582222/)
+Dev Team | Priscila Silva | [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=000000&color=CED4DA"/>](https://github.com/prsilva) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=0077B5&color=CED4DA" />](https://www.linkedin.com/in/priscilasilva1801/)
 
 > Instituição: Fatec São José dos Campos - Prof. Jessen Vidal
->
+> 
 > Curso: Desenvolvimento de Software Multiplataforma/3º Semestre
-
+ 
 <a href="#inicio">[Voltar ao início]</a>
