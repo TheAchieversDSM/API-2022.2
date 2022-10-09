@@ -52,7 +52,7 @@ Sprint ID | Data | Histórico | Status |
 
 <span id="metodologia">
 
-### :hammer_and_wrench: Metodologia: SCRUM
+### :thought_balloon: Metodologia Scrum
  <p>Scrum é um framework com o qual as pessoas podem resolver problemas complexos e adaptáveis, enquanto entregam produtos de forma produtiva, criativa e com o maior valor possível.
 
 Scrum consiste do Time Scrum e seus papéis, eventos e artefatos que coordenam o relacionamento e interação entre os membros.
@@ -66,7 +66,7 @@ Diferente de uma linha de montagem, onde cada passo pode ser previsto e monitora
 
 <span id="backlog">
  
- ### :hammer_and_wrench: Backlogs e User Stories
+ ### :bookmark_tabs: Backlogs e User Stories
 
 <h4> Backlog do produto
 <br></br>
@@ -80,7 +80,7 @@ Diferente de uma linha de montagem, onde cada passo pode ser previsto e monitora
 
 <span id="documentacao">
  
- ### :hammer_and_wrench: Documentação
+ ### :clipboard: Documentação
  
 <h4>Modelo de dados
 <br></br>
