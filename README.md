@@ -19,13 +19,13 @@
 
  Os requisitos abrangidos por essa sprint são: 
  <br></br>
- <img src="https://i.imgur.com/qNOspM8.png"> 
+ <img src="https://i.imgur.com/RX5LJQs.png"> 
 
   
   
 <span id="entregas">
 
-### :dart: Entregas
+### :page_with_curl: Entregas
 
 <details>
 <summary>Demonstrativos das funcionalidades aplicadas na Sprint</summary>
