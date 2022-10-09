@@ -57,7 +57,7 @@
 
 <span id="burndown">
 
-### :bookmark_tabs: Burndown:
+### :chart_with_downwards_trend: Burndown:
 <p>O gráfico de burndown representa a relação entre o trabalho a ser feito e o tempo necessário para executá-lo, mostrando, efetivamente, se os prazos serão cumpridos.</p>
 <p><img src="https://i.imgur.com/p5catz9.png">
 </p>
