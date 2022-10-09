@@ -10,7 +10,7 @@
 <span id="sobre">
 
 ### :bookmark_tabs: Sobre o projeto:
-<p>Em complemento às funcionalidades desenvolvidas na <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-01">primeira sprint</a>, o grupo analisou as possibilidades de melhorias no processo de cross-selling (venda cruzada) e, portanto, adionamos ao projeto as seguintes aplicações: criação de oferta, que precificará os pacotes; inclusão da funcionalidade das promoções e dos serviços obrigatórios; criação do carrinho de compras e suas funcionalidades; possibilidade de filtragem de serviços por categorias.
+<p>Em complemento às funcionalidades desenvolvidas na <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-01">primeira sprint</a>, o grupo analisou as possibilidades de melhorias no processo de cross-selling (venda cruzada) e, portanto, adicionamos ao projeto as seguintes aplicações: criação de oferta, que precificará os pacotes; inclusão da funcionalidade das promoções e dos serviços obrigatórios; criação do carrinho de compras e suas funcionalidades; possibilidade de filtragem de serviços por categorias.
 </p>
 
  <span id="objetivo">
