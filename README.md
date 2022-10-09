@@ -29,7 +29,7 @@
   
 <span id="entregas">
 
-### :dart: Entregas
+### :page_with_curl: Entregas
 
 <details>
    <summary><b>Demonstrativos das funcionalidades aplicadas na Sprint<b></summary>
@@ -54,13 +54,11 @@
 
 <span id="burndown">
 
-### :bookmark_tabs: Burndown:
+### :chart_with_downwards_trend: Burndown:
 <p>   <img src="https://i.imgur.com/nwe2jxt.png">
 </p>
      
 <h4></h4>
- 
-<a href="#inicio">[Voltar ao início]</a>
 
 > Instituição: Fatec São José dos Campos - Prof. Jessen Vidal
 > 
