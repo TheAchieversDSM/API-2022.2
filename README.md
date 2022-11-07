@@ -56,8 +56,6 @@
 </p>
      
 <h4></h4>
- 
-<a href="#inicio">[Voltar ao início]</a>
 
 > Instituição: Fatec São José dos Campos - Prof. Jessen Vidal
 > 
