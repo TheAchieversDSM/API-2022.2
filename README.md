@@ -17,8 +17,8 @@
  
  ### :dart: Objetivos da Sprint
 
- Os requisitos abrangidos por essa sprint são: 
-   <img src="https://imgur.com/rHyRhGl"> 
+ <p>Os requisitos abrangidos por essa sprint são: </p>
+ <img src="https://i.imgur.com/rHyRhGl.png"> 
 
  <p align="center">
 
@@ -27,7 +27,7 @@
   
 <span id="entregas">
 
-### :dart: Entregas
+### :page_with_curl: Entregas
 
 <details>
    <summary>Demonstrativos das funcionalidades aplicadas na Sprint</summary>
