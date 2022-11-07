@@ -47,8 +47,8 @@ Sprint ID | Data | Histórico | Status |
 ----------|------|-----------|--------|
 #1 | 29.08.22 - 18.09.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-01">Relatório</a>  | :heavy_check_mark:
 #2 | 19.09.22 - 09.10.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-02">Relatório</a>  | :heavy_check_mark:
-#3 | 17.10.22 - 06.11.22 | :construction:  | :construction:
-#4 | 07.11.22 - 27.11.22 | 🛑  | 🛑
+#3 | 17.10.22 - 06.11.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-03">Relatório</a>  | :heavy_check_mark:
+#4 | 07.11.22 - 27.11.22 | :construction:  | :construction:
 
 <span id="metodologia">
 
@@ -84,12 +84,12 @@ Diferente de uma linha de montagem, onde cada passo pode ser previsto e monitora
  
 <h4>Modelo de dados
 <br></br>
-<img src="https://i.imgur.com/5Glci1Y.png"/>  
+<img src="https://imgur.com/2Val0lp.png"/>  
 </h4>
 
 <h4>Diagrama de classes
 <br></br>
-<img src="https://i.imgur.com/gHXL6QV.png">  
+<img src="https://imgur.com/XLpfLI2.png">  
 </h4>
 
 > 🔗 Links gerais
