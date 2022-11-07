@@ -18,7 +18,7 @@
  ### :dart: Objetivos da Sprint
 
  Os requisitos abrangidos por essa sprint são: 
-   <img src="https://imgur.com/FC0TPts.png"> 
+   <img src="https://imgur.com/rHyRhGl"> 
 
  <p align="center">
 
