@@ -70,7 +70,7 @@ Diferente de uma linha de montagem, onde cada passo pode ser previsto e monitora
 
 <h4> Backlog do produto
 <br></br>
-<img src="https://i.imgur.com/xH57Lbn.png"/></h4>
+<img src="https://imgur.com/x9pAQze.png"/></h4>
 
 <h4> User Stories
 <br></br>
