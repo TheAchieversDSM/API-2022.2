@@ -84,7 +84,7 @@ Diferente de uma linha de montagem, onde cada passo pode ser previsto e monitora
  
 <h4>Modelo de dados
 <br></br>
-<img src="https://imgur.com/2Val0lp.png"/>  
+<img src="https://imgur.com/82UhqN6.png"/>  
 </h4>
 
 <h4>Diagrama de classes
