@@ -48,7 +48,7 @@ Sprint ID | Data | Histórico | Status |
 #1 | 29.08.22 - 18.09.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-01">Relatório</a>  | :heavy_check_mark:
 #2 | 19.09.22 - 09.10.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-02">Relatório</a>  | :heavy_check_mark:
 #3 | 17.10.22 - 06.11.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-03">Relatório</a>  | :heavy_check_mark:
-#4 | 07.11.22 - 27.11.22 | :construction:  | :construction:
+#4 | 07.11.22 - 27.11.22 | <a href="https://github.com/TheAchieversDSM/API-2022.2/tree/sprint-04">Relatório</a>  | :heavy_check_mark:
 
 <span id="metodologia">
 
@@ -95,6 +95,7 @@ Diferente de uma linha de montagem, onde cada passo pode ser previsto e monitora
 > 🔗 Links gerais
 > <ul>
 > <li>Wireframe: <a href="https://github.com/TheAchieversDSM/API-2022.2/blob/main/wireframe.pdf">acesse aqui!</a></li>
+> <li>Documentação do projeto: <a href="https://github.com/TheAchieversDSM/API-2022.2/blob/main/documentacao.pdf">acesse aqui!</a></li>
 > <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2022.2-BackEnd">acesse aqui!</a></li>
 > <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2022.2-FrontEnd">acesse aqui!</a></li>
 > </ul>
